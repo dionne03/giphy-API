@@ -3,6 +3,32 @@ body{
     
 }
 
+h1{
+    text-align: center;
+    margin-top: 30px;
+    background:rgb(137, 43, 225) ;
+    padding: 10px;
+    box-shadow:         1px 1px 10px 0px rgba(50, 50, 50, 0.75);
+    color:#fff;
+}
+
+.githubLink{
+    background: #2d2d2d;
+    height: 40px;
+    width: 100px;
+    border-radius: 5px;
+    padding-top: 8px;
+    margin-top: 15px;
+    margin-left: 50px;
+    box-shadow:         1px 1px 10px 0px rgba(50, 50, 50, 0.75);
+}
+
+    .githubLink a{
+        padding: 15px 15px;
+        color:#fff;
+       
+    }
+
 #animal-form {
     background: #c5c5c5;
     border-radius:5px; 
@@ -28,12 +54,13 @@ body{
 .animalButton{
     margin-left:5px; 
     margin-top: 10px;
-    background:rgb(20, 20, 20) ;
+    background:rgb(137, 43, 225) ;
     color: azure;
     font-size: .9em;
     padding: 10px;
+    border: none;
     border-radius:5px; 
-    box-shadow:         5px 4px 5px 0px rgba(50, 50, 50, 0.63);
+    box-shadow:         2px 2px 11px 0px rgba(50, 50, 50, 0.75);
 
 }
 
